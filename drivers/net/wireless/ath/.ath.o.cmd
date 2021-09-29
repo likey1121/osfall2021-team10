@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/ath/ath.o := rm -f drivers/net/wireless/ath/ath.o; aarch64-linux-gnu-ar rcSTPD drivers/net/wireless/ath/ath.o drivers/net/wireless/ath/main.o drivers/net/wireless/ath/regd.o drivers/net/wireless/ath/hw.o drivers/net/wireless/ath/key.o drivers/net/wireless/ath/dfs_pattern_detector.o drivers/net/wireless/ath/dfs_pri_detector.o

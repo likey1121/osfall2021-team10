@@ -1,0 +1,1 @@
+cmd_drivers/dma/built-in.o :=  rm -f drivers/dma/built-in.o; aarch64-linux-gnu-ar rcSTPD drivers/dma/built-in.o drivers/dma/dmaengine.o drivers/dma/virt-dma.o drivers/dma/of-dma.o drivers/dma/bcm2708-dmaengine.o drivers/dma/bcm2835-dma.o drivers/dma/qcom/built-in.o drivers/dma/xilinx/built-in.o 

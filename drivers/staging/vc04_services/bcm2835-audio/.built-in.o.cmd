@@ -1,0 +1,1 @@
+cmd_drivers/staging/vc04_services/bcm2835-audio/built-in.o :=  rm -f drivers/staging/vc04_services/bcm2835-audio/built-in.o; aarch64-linux-gnu-ar rcSTPD drivers/staging/vc04_services/bcm2835-audio/built-in.o drivers/staging/vc04_services/bcm2835-audio/snd-bcm2835.o 

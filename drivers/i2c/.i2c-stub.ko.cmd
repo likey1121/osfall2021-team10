@@ -1,0 +1,1 @@
+cmd_drivers/i2c/i2c-stub.ko := aarch64-linux-gnu-ld -EL -r  -maarch64linux -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds --build-id  -o drivers/i2c/i2c-stub.ko drivers/i2c/i2c-stub.o drivers/i2c/i2c-stub.mod.o ;  true

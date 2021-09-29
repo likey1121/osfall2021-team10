@@ -1,0 +1,105 @@
+!<thin>
+//                                              742       `
+drm_auth.o/
+drm_bufs.o/
+drm_cache.o/
+drm_context.o/
+drm_dma.o/
+drm_file.o/
+drm_gem.o/
+drm_ioctl.o/
+drm_irq.o/
+drm_lock.o/
+drm_memory.o/
+drm_drv.o/
+drm_scatter.o/
+drm_pci.o/
+drm_sysfs.o/
+drm_hashtab.o/
+drm_mm.o/
+drm_crtc.o/
+drm_fourcc.o/
+drm_modes.o/
+drm_edid.o/
+drm_info.o/
+drm_encoder_slave.o/
+drm_trace_points.o/
+drm_global.o/
+drm_prime.o/
+drm_rect.o/
+drm_vma_manager.o/
+drm_flip_work.o/
+drm_modeset_lock.o/
+drm_atomic.o/
+drm_bridge.o/
+drm_framebuffer.o/
+drm_connector.o/
+drm_blend.o/
+drm_encoder.o/
+drm_mode_object.o/
+drm_property.o/
+drm_plane.o/
+drm_color_mgmt.o/
+drm_print.o/
+drm_dumb_buffers.o/
+drm_mode_config.o/
+drm_vblank.o/
+drm_syncobj.o/
+drm_ioc32.o/
+drm_gem_cma_helper.o/
+drm_panel.o/
+drm_of.o/
+drm_debugfs.o/
+drm_debugfs_crc.o/
+
+/0              0           0     0     644     254928    `
+/12             0           0     0     644     331488    `
+/24             0           0     0     644     127560    `
+/37             0           0     0     644     254680    `
+/52             0           0     0     644     227720    `
+/63             0           0     0     644     301816    `
+/75             0           0     0     644     354592    `
+/86             0           0     0     644     310576    `
+/99             0           0     0     644     234928    `
+/110            0           0     0     644     255512    `
+/122            0           0     0     644     236576    `
+/136            0           0     0     644     330592    `
+/147            0           0     0     644     232832    `
+/162            0           0     0     644     248440    `
+/173            0           0     0     644     278296    `
+/186            0           0     0     644     224136    `
+/201            0           0     0     644     284272    `
+/211            0           0     0     644     312496    `
+/223            0           0     0     644     253056    `
+/237            0           0     0     644     345968    `
+/250            0           0     0     644     547920    `
+/262            0           0     0     644     234112    `
+/274            0           0     0     644     274768    `
+/295            0           0     0     644     306816    `
+/315            0           0     0     644     91712     `
+/329            0           0     0     644     297048    `
+/342            0           0     0     644     229896    `
+/354            0           0     0     644     248120    `
+/373            0           0     0     644     230392    `
+/390            0           0     0     644     296312    `
+/410            0           0     0     644     436872    `
+/424            0           0     0     644     236424    `
+/438            0           0     0     644     328336    `
+/457            0           0     0     644     379320    `
+/474            0           0     0     644     268608    `
+/487            0           0     0     644     260624    `
+/502            0           0     0     644     299184    `
+/521            0           0     0     644     320312    `
+/537            0           0     0     644     324040    `
+/550            0           0     0     644     273128    `
+/568            0           0     0     644     204584    `
+/581            0           0     0     644     221496    `
+/601            0           0     0     644     300232    `
+/620            0           0     0     644     398816    `
+/634            0           0     0     644     345064    `
+/649            0           0     0     644     339952    `
+/662            0           0     0     644     274784    `
+/684            0           0     0     644     222208    `
+/697            0           0     0     644     265928    `
+/707            0           0     0     644     290808    `
+/722            0           0     0     644     282424    `

@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/realtek/rtlwifi/rtl_usb.o := rm -f drivers/net/wireless/realtek/rtlwifi/rtl_usb.o; aarch64-linux-gnu-ar rcSTPD drivers/net/wireless/realtek/rtlwifi/rtl_usb.o drivers/net/wireless/realtek/rtlwifi/usb.o

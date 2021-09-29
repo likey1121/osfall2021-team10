@@ -1,0 +1,1 @@
+cmd_drivers/staging/vc04_services/bcm2835-camera/built-in.o :=  rm -f drivers/staging/vc04_services/bcm2835-camera/built-in.o; aarch64-linux-gnu-ar rcSTPD drivers/staging/vc04_services/bcm2835-camera/built-in.o drivers/staging/vc04_services/bcm2835-camera/bcm2835-v4l2.o 

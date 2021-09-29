@@ -1,0 +1,32 @@
+!<thin>
+//                                              322       `
+drm_crtc_helper.o/
+drm_dp_helper.o/
+drm_probe_helper.o/
+drm_plane_helper.o/
+drm_dp_mst_topology.o/
+drm_atomic_helper.o/
+drm_kms_helper_common.o/
+drm_dp_dual_mode_helper.o/
+drm_simple_kms_helper.o/
+drm_modeset_helper.o/
+drm_scdc_helper.o/
+drm_gem_framebuffer_helper.o/
+bridge/panel.o/
+drm_fb_helper.o/
+drm_fb_cma_helper.o/
+/0              0           0     0     644     320320    `
+/19             0           0     0     644     348216    `
+/36             0           0     0     644     310760    `
+/56             0           0     0     644     288800    `
+/76             0           0     0     644     504304    `
+/99             0           0     0     644     534600    `
+/120            0           0     0     644     183784    `
+/145            0           0     0     644     234136    `
+/172            0           0     0     644     267272    `
+/197            0           0     0     644     262640    `
+/219            0           0     0     644     216192    `
+/238            0           0     0     644     281568    `
+/268            0           0     0     644     267816    `
+/284            0           0     0     644     511368    `
+/301            0           0     0     644     303120    `

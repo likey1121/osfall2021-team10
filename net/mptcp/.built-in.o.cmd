@@ -1,0 +1,1 @@
+cmd_net/mptcp/built-in.o :=  rm -f net/mptcp/built-in.o; aarch64-linux-gnu-ar rcSTPD net/mptcp/built-in.o net/mptcp/mptcp.o net/mptcp/mptcp_fullmesh.o net/mptcp/mptcp_ndiffports.o net/mptcp/mptcp_binder.o net/mptcp/mptcp_rr.o net/mptcp/mptcp_redundant.o 

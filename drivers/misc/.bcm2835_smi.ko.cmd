@@ -1,0 +1,1 @@
+cmd_drivers/misc/bcm2835_smi.ko := aarch64-linux-gnu-ld -EL -r  -maarch64linux -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds --build-id  -o drivers/misc/bcm2835_smi.ko drivers/misc/bcm2835_smi.o drivers/misc/bcm2835_smi.mod.o ;  true

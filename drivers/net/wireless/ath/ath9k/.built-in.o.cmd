@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/ath/ath9k/built-in.o :=  rm -f drivers/net/wireless/ath/ath9k/built-in.o; aarch64-linux-gnu-ar rcSTPD drivers/net/wireless/ath/ath9k/built-in.o drivers/net/wireless/ath/ath9k/ath9k.o drivers/net/wireless/ath/ath9k/ath9k_hw.o drivers/net/wireless/ath/ath9k/ath9k_common.o drivers/net/wireless/ath/ath9k/ath9k_htc.o 

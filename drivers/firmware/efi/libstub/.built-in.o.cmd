@@ -1,0 +1,1 @@
+cmd_drivers/firmware/efi/libstub/built-in.o :=  rm -f drivers/firmware/efi/libstub/built-in.o; aarch64-linux-gnu-ar rcSTPD drivers/firmware/efi/libstub/built-in.o drivers/firmware/efi/libstub/lib-ksyms.o 

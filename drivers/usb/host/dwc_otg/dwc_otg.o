@@ -1,0 +1,30 @@
+!<thin>
+//                                              256       `
+dwc_otg_driver.o/
+dwc_otg_attr.o/
+dwc_otg_cil.o/
+dwc_otg_cil_intr.o/
+dwc_otg_pcd_linux.o/
+dwc_otg_pcd.o/
+dwc_otg_pcd_intr.o/
+dwc_otg_hcd.o/
+dwc_otg_hcd_linux.o/
+dwc_otg_hcd_intr.o/
+dwc_otg_hcd_queue.o/
+dwc_otg_hcd_ddma.o/
+dwc_otg_adp.o/
+dwc_otg_fiq_fsm.o/
+/0              0           0     0     644     296920    `
+/18             0           0     0     644     310088    `
+/34             0           0     0     644     424416    `
+/49             0           0     0     644     275888    `
+/69             0           0     0     644     257160    `
+/90             0           0     0     644     275360    `
+/105            0           0     0     644     366344    `
+/125            0           0     0     644     388720    `
+/140            0           0     0     644     285776    `
+/161            0           0     0     644     317768    `
+/181            0           0     0     644     250080    `
+/202            0           0     0     644     250328    `
+/222            0           0     0     644     80120     `
+/237            0           0     0     644     214504    `
